@@ -41,6 +41,7 @@ spec:
         secretName: datadog-secret
       appSecret:
         keyName: app-key
+        secretName: datadog-secret
     clusterName: <CLUSTER_NAME>
     kubelet:
       tlsVerify: false
