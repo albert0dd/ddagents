@@ -30,6 +30,10 @@ spec:
       collectDNSStats: true
       enableConntrack: true
       enabled: true
+    remoteConfiguration:
+      enabled: true
+    usm:
+      enabled: true
   global:
     credentials:
       apiSecret:
